@@ -39,7 +39,7 @@ Intake by Month
 **Intake by Day of Week**
 - Wednesday and Thursday show the highest intake volumes
 - Monday and Tuesday show comparatively lower activity
-➡️ Staffing and resources should be optimized mid-week for operational efficiency.
+- ➡️ Staffing and resources should be optimized mid-week for operational efficiency.
 
 **5. Animal Health & Condition at Intake**
 Top Intake Conditions
@@ -47,7 +47,7 @@ Top Intake Conditions
 - Under Age/Weight: 11,935
 - Injured (Severe/Moderate/Mild): ~7,600+
 - Ill (Mild/Moderate/Severe): ~6,300+
-➡️ A significant number of animals require medical attention, impacting shelter costs and length of stay.
+- ➡️ A significant number of animals require medical attention, impacting shelter costs and length of stay.
 
 **6. Outcome & Survival Analysis**
 - Outcome Alive Status
@@ -60,13 +60,13 @@ Top Intake Conditions
 - Female: 79.88%
 - Male: 78.37%
 - Unknown: 49.03%
-➡️ Sterilized animals have the highest survival and adoption success rates, proving the importance of spay/neuter programs.
+- ➡️ Sterilized animals have the highest survival and adoption success rates, proving the importance of spay/neuter programs.
 
 **7. Time-Based Performance**
 - Intake Duration vs Outcome
 - Animals staying longer are more likely to be adopted
 - Short stays often correlate with non-live outcomes
-➡️ Reducing length of stay while maintaining care quality can improve adoption outcomes.
+- ➡️ Reducing length of stay while maintaining care quality can improve adoption outcomes.
 
 **8. Key Insights & Recommendations**
 Insights
