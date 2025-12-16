@@ -15,7 +15,7 @@ This report analyzes animal shelter operations using Power BI, focusing on intak
 - Adoption: 11,172 (21.3%)
 - Euthanasia: 9,600 (18.3%)
 - Died: 1,257 (2.4%)
-➡️ A strong live release rate indicates effective rescue and adoption efforts, though euthanasia remains a significant area for improvement.
+- ➡️ A strong live release rate indicates effective rescue and adoption efforts, though euthanasia remains a significant area for improvement.
 
 **3. Animal Intake Analysis**
 - Most Intake Animal Types
